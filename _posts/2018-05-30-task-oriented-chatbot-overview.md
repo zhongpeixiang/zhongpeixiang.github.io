@@ -1,6 +1,8 @@
 ---
 title: Task-Oriented Dialog Agents Review
-tags: [review, task-oriented chatbot]
+tags: 
+    -task-oriented chatbot
+    -review
 ---
 
 Task-oriented dialog agents are designed for a particular task and set up to have short conversations
