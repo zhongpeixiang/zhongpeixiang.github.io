@@ -1,8 +1,7 @@
 ---
 title: On the Convergence of Adam and Beyond
 tags: 
-    -optimization
-    -iclr
+    - optimization
 ---
 
 

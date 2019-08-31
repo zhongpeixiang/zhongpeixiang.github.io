@@ -1,8 +1,8 @@
 ---
 title: Generative Adversarial Network (GAN) Overview
 tags:
-    -gan
-    -review
+    - gan
+    - review
 ---
 
 Generative Adversarial Network (GAN) is a class of generative models. Basically generative models aim to model the underlying distribution of 

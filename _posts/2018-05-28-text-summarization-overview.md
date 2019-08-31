@@ -1,8 +1,8 @@
 ---
 title: Text Summarization Overview
 tags: 
-    -text summarization
-    -review
+    - summarization
+    - review
 ---
 
 
