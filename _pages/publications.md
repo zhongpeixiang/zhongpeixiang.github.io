@@ -6,7 +6,7 @@ author_profile: true
 ---
 **Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations** <br/>
 **Peixiang Zhong**, Di Wang, and Chunyan Miao <br/>
-*Accepted to EMNLP 2019 (Long Paper)*
+*Accepted to EMNLP 2019 (Long Paper)* [pdf](https://arxiv.org/abs/1909.10681)
 
 **EEG-Based Emotion Recognition Using Regularized Graph Neural Networks** <br/>
 **Peixiang Zhong**, Di Wang, and Chunyan Miao <br/>
