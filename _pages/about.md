@@ -16,6 +16,7 @@ Interested in these research areas? Check out my [paper reading notes](https://g
 
 ## Latest News
 
+- 03-11-2019 Attended EMNLP 2019 at Hong Kong, China
 - 13-08-2019 One paper accepted to EMNLP 2019
 - 18-07-2019 One paper submitted to Arxiv
 - 12-05-2019 One paper accepted to SemEval 2019
