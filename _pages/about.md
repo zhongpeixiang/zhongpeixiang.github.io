@@ -16,6 +16,7 @@ Interested in these research areas? Check out my [paper reading notes](https://g
 
 ## Latest News
 
+- 12-12-2019 Joining Alibaba as a Research Intern
 - 03-11-2019 Attended EMNLP 2019 at Hong Kong, China
 - 13-08-2019 One paper accepted to EMNLP 2019
 - 18-07-2019 One paper submitted to Arxiv
