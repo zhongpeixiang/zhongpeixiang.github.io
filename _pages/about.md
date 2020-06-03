@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a forth-year PhD student at Nanyang Technological University (NTU), Singapore, supervised by Prof. Miao Chunyan. My research interests include **conversational AI**, **affective computing**,  and **natural language processing**. My research objective is to augment neural conversational models with emotional intelligence. 
+Hi! I am currently a forth-year PhD student at Nanyang Technological University (NTU), Singapore, supervised by Prof. Miao Chunyan. My research interests include **conversational AI**, **affective computing**,  and **natural language processing**. 
 
-Specifically, I work on **text-based emotion detection and generation**, especially in conversational systems. I also have some research experience in emotion recognition from EEG signals.
+Specifically, my research objective is to build truly human-like conversational agents by endowing them with human traits, e.g., emotion, empathy, personality and commonsense. I also have some research experience in emotion recognition from EEG signals.
 
 Interested in these research areas? Check out my [paper reading notes](https://github.com/zhongpeixiang/AI-NLP-Paper-Readings) on my Github.
 
