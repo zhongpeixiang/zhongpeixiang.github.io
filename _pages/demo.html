@@ -1,20 +1,37 @@
+---
+layout: demo
+title: "Demo"
+permalink: /demo/
+author_profile: false
+---
+<!-- 
 <!DOCTYPE html>
 <html lang="en-US">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>This page is under development</title>
+    <title>Chat with me!</title>
+    <script src=https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js></script>
     <script>
-        let d = new Date();
-        alert("Today's date is " + d);
+        function UserAction() {
+            axios.post('http://4642df6207b3.ngrok.io/chat', {
+                num_candidates: 100,
+                persona: [],
+                topic: "",
+                dialog: ["hey, how are you?"]
+            })
+            .then(function (response) {
+                console.log(response);
+            })
+        }
     </script>
 </head>
 
 <body>
-
+    <button type="submit" onclick="UserAction()">Search</button>
 </body>
 
 
 
-</html>
+</html> -->

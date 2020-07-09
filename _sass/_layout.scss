@@ -1,0 +1,101 @@
+// body {
+//   background: #fff;
+//   margin: auto;
+// }
+
+.site-wrapper {
+  display: table;
+  background-color: transparent;
+  z-index: 1000;
+  // position: absolute;
+  // left: 0;
+  // top: 0;
+  height: 80%;
+  min-height: 80%;
+  width: 50%;
+  margin: auto;
+
+  .inner-wrapper {
+    display: table-cell;
+    vertical-align: middle;
+  }
+}
+
+.settings {
+  background-color: transparent;
+  z-index: 1000;
+  height: 20%;
+  width: 50%;
+  margin: auto;
+}
+
+#persona_form, #topic_form {
+  display:flex; 
+  flex-direction: row; 
+  justify-content: center; 
+  align-items: center;
+}
+
+#persona_form > label, input, button {
+  font-size: inherit;
+  /* the following ensures they're all using the same box-model for rendering */
+  -moz-box-sizing: content-box; /* or `border-box` */
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  margin-right: 2px;
+}
+
+#topic_form > label, input, button {
+  font-size: inherit;
+  /* the following ensures they're all using the same box-model for rendering */
+  -moz-box-sizing: content-box; /* or `border-box` */
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  margin-right: 2px;
+}
+
+.terminal {
+  /*
+  -webkit-box-shadow: 0 0 32px 2px rgba(0,0,0,0.07);
+  -moz-box-shadow: 0 0 32px 2px rgba(0,0,0,0.07);
+  box-shadow: 0 0 32px 2px rgba(0,0,0,0.07);
+  */
+  overflow: auto;
+  color: #0074D9;
+  background: #fff;
+  scrollbar-face-color: #aaa;
+  scrollbar-shadow-color: #ddd;
+  scrollbar-highlight-color: #ddd;
+  scrollbar-3dlight-color: #ddd;
+  scrollbar-darkshadow-color: #ddd;
+  scrollbar-track-color: #ddd;
+  scrollbar-arrow-color: #ddd;
+
+  &::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background-color: #ddd;
+  }
+
+  &::-webkit-scrollbar-track {
+    background-color: #ddd;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: #aaa;
+  }
+}
+
+.terminal,
+.cmd {
+  color: #0074D9;
+}
+
+.cmd span,
+.terminal-output div div span {
+  font-family: Consolas, monaco, monospace;
+  font-size: 16px;
+  line-height: 20px;
+}
