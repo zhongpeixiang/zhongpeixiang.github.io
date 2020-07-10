@@ -36,23 +36,32 @@
   align-items: center;
 }
 
-#persona_form > label, input, button {
-  font-size: inherit;
-  /* the following ensures they're all using the same box-model for rendering */
-  -moz-box-sizing: content-box; /* or `border-box` */
-  -webkit-box-sizing: content-box;
-  box-sizing: content-box;
-  margin-right: 2px;
+input[type="radio"] {
+  margin-left: 3px;
 }
 
-#topic_form > label, input, button {
+label, input, button {
   font-size: inherit;
   /* the following ensures they're all using the same box-model for rendering */
   -moz-box-sizing: content-box; /* or `border-box` */
   -webkit-box-sizing: content-box;
   box-sizing: content-box;
-  margin-right: 2px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin: 3px;
 }
+
+// #topic_form > label, input, button {
+//   font-size: inherit;
+//   /* the following ensures they're all using the same box-model for rendering */
+//   -moz-box-sizing: content-box; /* or `border-box` */
+//   -webkit-box-sizing: content-box;
+//   box-sizing: content-box;
+//   padding: 1px;
+//   margin: 2px;
+// }
 
 .terminal {
   /*

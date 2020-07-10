@@ -14,8 +14,11 @@ Specifically, my research objective is to build truly human-like conversational 
 
 Interested in these research areas? Check out my [paper reading notes](https://github.com/zhongpeixiang/AI-NLP-Paper-Readings) on my Github.
 
+Last but not least, check out the demo page for a [live chat](https://zhongpeixiang.github.io/demo/) with Echo, just another chatbot from my PhD research!
+
 ## Latest News
 
+- 10-07-2020 Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
 - 04-05-2020 One paper accepted to IEEE Transactions on Affective Computing
 - 12-12-2019 Joining Alibaba as a Research Intern
 - 03-11-2019 Attended EMNLP 2019 at Hong Kong, China
