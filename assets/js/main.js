@@ -18,6 +18,7 @@ $('input[type=radio][name=num_candidates]').change(function() {
   num_candidates = parseInt(this.value);
 });
 
+
 $("#persona_button").click(function(e){
   var new_persona = $('#persona_field').val();
   if (new_persona.length == 0){
@@ -45,13 +46,10 @@ $('.terminal').terminal(function(command, term) {
   if (command.length == 0) {
     return;
   }
- else {
+  else {
     term.pause();
     dialog.push(command);
-    get_response(dialog, term);
-    // dialog.push(reply)
-    // botRespond(term, reply);
-    // term.resume();
+    get_response(term);
   }
 }, {
   //prompt: '[[gb;#0c0;#000000]>_] ',
@@ -81,7 +79,7 @@ $('.terminal').terminal(function(command, term) {
 });
 
 
-function get_response(dialog, term) {
+function get_response(term) {
   console.log(num_candidates);
   console.log(persona);
   console.log(topic);
@@ -99,7 +97,6 @@ function get_response(dialog, term) {
       topic = response.data.topic;
       persona = response.data.persona;
       dialog = response.data.dialog;
-      // dialog.push(reply)
       botRespond(term, dialog[dialog.length-1]);
       term.resume();
   })

@@ -36,11 +36,8 @@
   align-items: center;
 }
 
-input[type="radio"] {
-  margin-left: 3px;
-}
 
-label, input, button {
+.settings label, .settings input, .settings button {
   font-size: inherit;
   /* the following ensures they're all using the same box-model for rendering */
   -moz-box-sizing: content-box; /* or `border-box` */
@@ -50,8 +47,9 @@ label, input, button {
   padding-right: 4px;
   padding-top: 2px;
   padding-bottom: 2px;
-  margin: 3px;
+  margin: 3px !important;
 }
+
 
 // #topic_form > label, input, button {
 //   font-size: inherit;
