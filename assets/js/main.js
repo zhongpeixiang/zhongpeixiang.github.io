@@ -1,6 +1,6 @@
 var userPrompt = '';
 var botPrompt = '[[b;#333;transparent]Echo][[;#333;transparent] ·] ';
-var url = 'https://4642df6207b3.ngrok.io/chat';
+var url = 'https://04d4d88df8a7.ngrok.io/chat';
 
 set_size();
 
