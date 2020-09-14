@@ -14,7 +14,7 @@ Specifically, my research objective is to build truly human-like conversational 
 
 Interested in these research areas? Check out my [paper reading notes](https://github.com/zhongpeixiang/AI-NLP-Paper-Readings) on my Github.
 
-(Under Maintenance) Last but not least, check out the demo page for a [live chat](https://zhongpeixiang.github.io/demo/) with Echo, just another chatbot from my PhD research! Note that echo is still far from human intelligence. 
+Last but not least, check out the demo page for a [live chat](https://zhongpeixiang.github.io/demo/) with Echo, just another chatbot from my PhD research! Note that echo is still far from human intelligence. 
 
 ## Latest News
 
