@@ -18,6 +18,7 @@ Last but not least, check out the demo page for a [live chat](https://zhongpeixi
 
 ## Latest News
 
+- 15-09-2020 One paper accepted to EMNLP 2020
 - 10-07-2020 Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
 - 04-05-2020 One paper accepted to IEEE Transactions on Affective Computing
 - 26-04-2019 One paper submitted to Arxiv
