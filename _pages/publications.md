@@ -8,6 +8,10 @@ author_profile: true
 **Peixiang Zhong**, Chen Zhang, Hao Wang, Yong Liu and Chunyan Miao <br/>
 *Proceedings of EMNLP 2020 (Long Paper)* [pdf](https://arxiv.org/pdf/2004.12316)
 
+**Convolutional Transformer with Sentiment-aware Attention for Sentiment Analysis** <br/>
+Pengfei Li, **Peixiang Zhong**, Jiaheng Zhang, Kezhi Mao <br/>
+*Proceedings of IJCNN 2020 (Long Paper)* [pdf](https://ieeexplore.ieee.org/abstract/document/9206796/)
+
 **EEG-Based Emotion Recognition Using Regularized Graph Neural Networks** <br/>
 **Peixiang Zhong**, Di Wang, and Chunyan Miao <br/>
 *IEEE Transactions on Affective Computing (Regular Paper, Impact Factor: 6.288)* [pdf](https://arxiv.org/abs/1907.07835)
