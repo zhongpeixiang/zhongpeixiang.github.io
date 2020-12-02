@@ -4,6 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Keyword-Guided Neural Conversational Model** <br/>
+**Peixiang Zhong**, Yong Liu, Hao Wang, and Chunyan Miao <br/>
+*Proceedings of AAAI 2021 (Long Paper)*
+
+**CARE: Commonsense-Aware Emotional Response Generation with Latent Concepts** <br/>
+**Peixiang Zhong**, Di Wang, Chen Zhang, Hao Wang, and Chunyan Miao <br/>
+*Proceedings of AAAI 2021 (Long Paper)*
+
+**ACT: an Attentive Convolutional Transformer for Efficient Text Classification** <br/>
+Pengfei Li, **Peixiang Zhong**, Kezhi Mao, Dongzhe Wang, Xuefeng Yang, Yunfeng Liu, Jianxiong (Terry) Yin, and Simon See<br/>
+*Proceedings of AAAI 2021 (Long Paper)*
+
 **Towards Persona-Based Empathetic Conversational Models** <br/>
 **Peixiang Zhong**, Chen Zhang, Hao Wang, Yong Liu and Chunyan Miao <br/>
 *Proceedings of EMNLP 2020 (Long Paper)* [pdf](https://arxiv.org/pdf/2004.12316)
