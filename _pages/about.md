@@ -18,6 +18,7 @@ Last but not least, check out the demo page for a [live chat](https://zhongpeixi
 
 ## Latest News
 
+- 02-12-2020 Three papers accepted to AAAI 2021
 - 15-09-2020 One paper accepted to EMNLP 2020
 - 19-07-2020 One paper accepted to IJCNN 2020
 - 10-07-2020 Our chatbot [Echo](https://zhongpeixiang.github.io/demo/) is live for demo!
