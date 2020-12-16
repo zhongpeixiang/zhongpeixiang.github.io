@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a forth-year PhD student at Nanyang Technological University (NTU), Singapore, supervised by Prof. Miao Chunyan. My research interests include **conversational AI**, **affective computing**,  and **natural language processing**. 
+Hi! I am currently a forth-year PhD student at Nanyang Technological University (NTU), Singapore, supervised by Prof. Miao Chunyan. My research interests include **conversational AI**, **affective computing**,  **knowledge graphs**, and **natural language processing**. 
 
-Specifically, my research objective is to build truly human-like conversational agents by endowing them with human traits, e.g., **emotion**, **empathy**, **personality** and **commonsense**. I also have some research experience in emotion recognition from EEG signals.
+Specifically, my thesis is towards building truly human-like conversational agents by endowing them with desirable human traits, e.g., **emotion**, **empathy**, **personality** and **commonsense**. I also have research experiences in text analysis and knowledge graphs.
 
 Interested in these research areas? Check out my [paper reading notes](https://github.com/zhongpeixiang/AI-NLP-Paper-Readings) on my Github.
 
-Last but not least, check out the demo page for a [live chat](https://zhongpeixiang.github.io/demo/) with Echo, just another chatbot from my PhD research! Note that echo is still far from human intelligence. 
+Last but not least, check out the demo page for a [live chat](https://zhongpeixiang.github.io/demo/) (under maintenance) with Echo, just another chatbot from my PhD research! Note that echo is still far from human intelligence. 
 
 ## Latest News
 
