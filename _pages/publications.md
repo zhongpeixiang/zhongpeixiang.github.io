@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Towards Humanized Open-Domain Conversational Agents** <br/>
+**Peixiang Zhong**<br/>
+*PhD Thesis*
+
 **Keyword-Guided Neural Conversational Model** <br/>
 **Peixiang Zhong**, Yong Liu, Hao Wang, and Chunyan Miao <br/>
 *Proceedings of AAAI 2021 (Long Paper)* [pdf](https://arxiv.org/abs/2012.08383)
