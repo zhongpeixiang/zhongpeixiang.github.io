@@ -18,6 +18,7 @@ Last but not least, check out the demo page for a [live chat](https://zhongpeixi
 
 ## Latest News
 
+- 29-03-2021 Joining the Algorithm team of Lazaza Group, Singapore
 - 02-12-2020 Three papers accepted to AAAI 2021
 - 18-11-2020 Attended EMNLP 2020 Virtual Conference.
 - 15-09-2020 One paper accepted to EMNLP 2020
