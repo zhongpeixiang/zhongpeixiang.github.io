@@ -12,8 +12,8 @@ author_profile: true
 
 ## Services
 ### Reviewers
-- 2021: AAAI, ACL
-- 2020: AAAI, EMNLP
+- Journals: JAIR
+- Conferences: AAAI, EMNLP, ACL
 
 ### Workshop
 - 2019: IJCAI Humanizing AI Program Committee
