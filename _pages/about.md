@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a forth-year PhD student at Nanyang Technological University (NTU), Singapore, supervised by Prof. Miao Chunyan. My undergrad study is at NTU as well 😃. 
+Hi! I am an algorithm engineer in the reginal Search & Recommendation Group at Lazada. 
 
-My research interests include **conversational AI** and **natural language processing**. Specifically, my thesis is towards building truly human-like conversational agents by endowing them with desirable human traits, e.g., **emotion**, **commonsense**, **persona** and **empathy**. I also have broad research experiences in text analysis and knowledge graphs.
+I obtained my PhD from Nanyang Technological University (NTU), Singapore, supervised by Prof. Miao Chunyan. My undergrad study is at NTU as well 😃. My research interests are natural langauge processing (NLP) and recommendation systems (RS).
 
 Interested in these research areas? Check out my [paper reading notes](https://github.com/zhongpeixiang/AI-NLP-Paper-Readings) on my Github.
 
 ## Latest News
 
-- 29-03-2021 Joining the Algorithm team of Lazaza Group, Singapore
+- 29-03-2021 Joining Lazaza Group, Singapore
 - 16-03-2021 Completed my PhD oral defense!
 - 02-12-2020 Three papers accepted to AAAI 2021
 - 18-11-2020 Attended EMNLP 2020 Virtual Conference.
