@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhong Peixiang"
 title_separator          : "-"
 name                     : &name "Zhong Peixiang"
-description              : &description "PhD student at Nanyang Technological University, Singapore"
+description              : &description "Algorithm Engineer in Search & Recommendation at Lazada Group"
 url                      : https://zhongpeixiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhongpeixiang/zhongpeixiang.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhong Peixiang"
   avatar           : "profile.jpg"
-  bio              : "PhD student in conversational AI, affective computing, knowledge graphs, and natural language processing."
+  bio              : "I am an algorithm engineer in Regional Search & Recommendation Group at Lazada, Singapore."
   location         : "Singapore"
-  employer         :
+  employer         : "Lazada"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.sg/citations?user=R85vx3IAAAAJ&hl=en"
-  email            : "peixiang001@e.ntu.edu.sg"
+  email            : "zhongpeixiang@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
