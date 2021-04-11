@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an algorithm engineer in the reginal Search & Recommendation Group at Lazada. 
+Hi! I am an algorithm engineer in the regional Search & Recommendation Group at Lazada, Singapore. 
 
-I obtained my PhD from Nanyang Technological University (NTU), Singapore, supervised by Prof. Miao Chunyan. My undergrad study is at NTU as well 😃. My research interests are natural langauge processing (NLP) and recommendation systems (RS).
+I obtained my PhD from Nanyang Technological University (NTU), Singapore, supervised by Prof. Miao Chunyan. My research interests are natural langauge processing (NLP) and recommendation systems (RS). My undergrad study is at NTU as well 😃.
 
 Interested in these research areas? Check out my [paper reading notes](https://github.com/zhongpeixiang/AI-NLP-Paper-Readings) on my Github.
 
