@@ -14,6 +14,8 @@ I obtained my PhD from Nanyang Technological University (NTU), Singapore, superv
 
 Interested in these research areas? Check out my [paper reading notes](https://github.com/zhongpeixiang/AI-NLP-Paper-Readings) on my Github.
 
+Highly recommend this tool for research: https://chatpaper.io/
+
 ## Latest News
 
 - 29-03-2021 Joining Lazaza Group, Singapore
