@@ -30,7 +30,7 @@ Pengfei Li, **Peixiang Zhong**, Jiaheng Zhang, Kezhi Mao <br/>
 
 **EEG-Based Emotion Recognition Using Regularized Graph Neural Networks** <br/>
 **Peixiang Zhong**, Di Wang, and Chunyan Miao <br/>
-*IEEE Transactions on Affective Computing (Regular Paper, Impact Factor: 6.288)* [pdf](https://arxiv.org/abs/1907.07835)
+*IEEE Transactions on Affective Computing (**Best Paper**, Impact Factor: 11.2)* [pdf](https://arxiv.org/abs/1907.07835)
 
 **Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations** <br/>
 **Peixiang Zhong**, Di Wang, and Chunyan Miao <br/>
