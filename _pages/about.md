@@ -14,10 +14,9 @@ I obtained my PhD from Nanyang Technological University (NTU), Singapore, superv
 
 Interested in these research areas? Check out my [paper reading notes](https://github.com/zhongpeixiang/AI-NLP-Paper-Readings) on my Github.
 
-Highly recommend this tool for research: https://chatpaper.io/
-
 ## Latest News
 
+- 01-12-2023 Our GNN-based EEG emotion recognition paper has been rewarded as the **Best Paper** at IEEE Transactions on Affective Computing (IF: 11.2)
 - 29-03-2021 Joining Lazaza Group, Singapore
 - 16-03-2021 Completed my PhD oral defense!
 - 02-12-2020 Three papers accepted to AAAI 2021
