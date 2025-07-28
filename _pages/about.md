@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an algorithm engineer in the regional Search & Recommendation Group at Lazada, Singapore. 
+Hi! I am an AI scientist in the AI team at OKX, Singapore. Previously I worked as an algorithm expert at Lazada, Alibaba Group.
 
 I obtained my PhD from Nanyang Technological University (NTU), Singapore, supervised by Prof. Miao Chunyan. My research interests are natural langauge processing (NLP) and recommendation systems (RS). My undergrad study is at NTU as well 😃.
 
@@ -16,6 +16,7 @@ Interested in these research areas? Check out my [paper reading notes](https://g
 
 ## Latest News
 
+- 15-04-2024 Joining OKX, Singapore
 - 01-12-2023 Our GNN-based EEG emotion recognition paper has been rewarded as the **Best Paper** at IEEE Transactions on Affective Computing (IF: 11.2)
 - 29-03-2021 Joining Lazaza Group, Singapore
 - 16-03-2021 Completed my PhD oral defense!
