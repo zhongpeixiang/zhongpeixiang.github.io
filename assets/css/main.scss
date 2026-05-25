@@ -385,6 +385,10 @@ body {
   max-width: 980px;
 }
 
+.content-page {
+  padding: 1.5rem 1.6rem;
+}
+
 .content-page__intro {
   margin: 0 0 1.5rem;
   color: #475569;
@@ -609,7 +613,8 @@ body {
   .content-hero,
   .content-section,
   .blog-card,
-  .list__item .archive__item {
+  .list__item .archive__item,
+  .content-page {
     padding: 1.2rem;
   }
 
