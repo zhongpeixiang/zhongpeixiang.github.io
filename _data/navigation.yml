@@ -1,13 +1,7 @@
-# main links links
+# main links
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "Blog Posts"
+
+  - title: "Blog"
     url: /blog/
-
-  - title: "Miscellaneous"
-    url: /miscellaneous/
-
-  - title: "Demo"
-    url: /demo/
